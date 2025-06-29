@@ -1,0 +1,2 @@
+2025-06-28 16:22:14,444 - Starting training for MNIST with VisionHybridTransformer.
+2025-06-28 16:22:14,444 - Configuration: epochs=30, lr=0.0001, batch_size=128, device=cuda

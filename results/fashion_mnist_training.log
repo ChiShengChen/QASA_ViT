@@ -1,0 +1,4 @@
+2025-06-28 16:21:03,148 - Starting training for Fashion MNIST with VisionHybridTransformer.
+2025-06-28 16:21:03,148 - Configuration: epochs=30, lr=0.0001, batch_size=128, device=cuda
+2025-06-28 17:08:07,207 - Epoch 1/30 | Train Loss: 0.9817, Train Acc: 0.6533 | Val Loss: 0.6424, Val Acc: 0.7923
+2025-06-28 17:08:07,230 - Best model saved to checkpoints_fashion_mnist/best_model.pth

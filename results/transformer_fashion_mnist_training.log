@@ -1,0 +1,45 @@
+2025-06-28 16:12:23,340 - Starting training for Fashion MNIST with VisionTransformer.
+2025-06-28 16:12:23,340 - Configuration: epochs=30, lr=0.0001, batch_size=128, device=cuda
+2025-06-28 16:12:28,542 - Epoch 1/30 | Train Loss: 0.5749, Train Acc: 0.8019 | Val Loss: 0.4590, Val Acc: 0.8397
+2025-06-28 16:12:28,901 - Best model saved to checkpoints_transformer_fashion_mnist/best_model.pth
+2025-06-28 16:12:33,905 - Epoch 2/30 | Train Loss: 0.4165, Train Acc: 0.8525 | Val Loss: 0.3972, Val Acc: 0.8590
+2025-06-28 16:12:33,931 - Best model saved to checkpoints_transformer_fashion_mnist/best_model.pth
+2025-06-28 16:12:38,918 - Epoch 3/30 | Train Loss: 0.3778, Train Acc: 0.8639 | Val Loss: 0.3857, Val Acc: 0.8596
+2025-06-28 16:12:38,942 - Best model saved to checkpoints_transformer_fashion_mnist/best_model.pth
+2025-06-28 16:12:43,935 - Epoch 4/30 | Train Loss: 0.3533, Train Acc: 0.8725 | Val Loss: 0.3738, Val Acc: 0.8633
+2025-06-28 16:12:43,966 - Best model saved to checkpoints_transformer_fashion_mnist/best_model.pth
+2025-06-28 16:12:48,943 - Epoch 5/30 | Train Loss: 0.3333, Train Acc: 0.8790 | Val Loss: 0.3553, Val Acc: 0.8727
+2025-06-28 16:12:49,778 - Best model saved to checkpoints_transformer_fashion_mnist/best_model.pth
+2025-06-28 16:12:55,038 - Epoch 6/30 | Train Loss: 0.3189, Train Acc: 0.8848 | Val Loss: 0.3561, Val Acc: 0.8687
+2025-06-28 16:13:00,070 - Epoch 7/30 | Train Loss: 0.3070, Train Acc: 0.8864 | Val Loss: 0.3360, Val Acc: 0.8768
+2025-06-28 16:13:00,103 - Best model saved to checkpoints_transformer_fashion_mnist/best_model.pth
+2025-06-28 16:13:05,179 - Epoch 8/30 | Train Loss: 0.2945, Train Acc: 0.8912 | Val Loss: 0.3558, Val Acc: 0.8710
+2025-06-28 16:13:10,181 - Epoch 9/30 | Train Loss: 0.2837, Train Acc: 0.8951 | Val Loss: 0.3528, Val Acc: 0.8707
+2025-06-28 16:13:15,195 - Epoch 10/30 | Train Loss: 0.2743, Train Acc: 0.8984 | Val Loss: 0.3288, Val Acc: 0.8820
+2025-06-28 16:13:15,219 - Best model saved to checkpoints_transformer_fashion_mnist/best_model.pth
+2025-06-28 16:13:20,256 - Epoch 11/30 | Train Loss: 0.2655, Train Acc: 0.9011 | Val Loss: 0.3376, Val Acc: 0.8843
+2025-06-28 16:13:25,298 - Epoch 12/30 | Train Loss: 0.2593, Train Acc: 0.9043 | Val Loss: 0.3193, Val Acc: 0.8846
+2025-06-28 16:13:25,327 - Best model saved to checkpoints_transformer_fashion_mnist/best_model.pth
+2025-06-28 16:13:30,350 - Epoch 13/30 | Train Loss: 0.2477, Train Acc: 0.9086 | Val Loss: 0.3196, Val Acc: 0.8879
+2025-06-28 16:13:35,325 - Epoch 14/30 | Train Loss: 0.2434, Train Acc: 0.9092 | Val Loss: 0.3277, Val Acc: 0.8863
+2025-06-28 16:13:40,275 - Epoch 15/30 | Train Loss: 0.2365, Train Acc: 0.9108 | Val Loss: 0.3133, Val Acc: 0.8864
+2025-06-28 16:13:40,298 - Best model saved to checkpoints_transformer_fashion_mnist/best_model.pth
+2025-06-28 16:13:45,235 - Epoch 16/30 | Train Loss: 0.2294, Train Acc: 0.9149 | Val Loss: 0.3089, Val Acc: 0.8907
+2025-06-28 16:13:45,259 - Best model saved to checkpoints_transformer_fashion_mnist/best_model.pth
+2025-06-28 16:13:53,782 - Epoch 17/30 | Train Loss: 0.2230, Train Acc: 0.9160 | Val Loss: 0.3198, Val Acc: 0.8903
+2025-06-28 16:13:58,641 - Epoch 18/30 | Train Loss: 0.2190, Train Acc: 0.9184 | Val Loss: 0.3172, Val Acc: 0.8877
+2025-06-28 16:14:03,519 - Epoch 19/30 | Train Loss: 0.2131, Train Acc: 0.9201 | Val Loss: 0.3160, Val Acc: 0.8886
+2025-06-28 16:14:08,366 - Epoch 20/30 | Train Loss: 0.2054, Train Acc: 0.9226 | Val Loss: 0.3254, Val Acc: 0.8875
+2025-06-28 16:14:13,226 - Epoch 21/30 | Train Loss: 0.2025, Train Acc: 0.9240 | Val Loss: 0.3095, Val Acc: 0.8902
+2025-06-28 16:14:18,203 - Epoch 22/30 | Train Loss: 0.1973, Train Acc: 0.9253 | Val Loss: 0.3038, Val Acc: 0.8954
+2025-06-28 16:14:18,226 - Best model saved to checkpoints_transformer_fashion_mnist/best_model.pth
+2025-06-28 16:14:23,276 - Epoch 23/30 | Train Loss: 0.1921, Train Acc: 0.9266 | Val Loss: 0.3252, Val Acc: 0.8888
+2025-06-28 16:14:28,281 - Epoch 24/30 | Train Loss: 0.1863, Train Acc: 0.9294 | Val Loss: 0.3080, Val Acc: 0.8912
+2025-06-28 16:14:33,304 - Epoch 25/30 | Train Loss: 0.1827, Train Acc: 0.9304 | Val Loss: 0.3240, Val Acc: 0.8881
+2025-06-28 16:14:38,316 - Epoch 26/30 | Train Loss: 0.1802, Train Acc: 0.9322 | Val Loss: 0.3164, Val Acc: 0.8953
+2025-06-28 16:14:43,328 - Epoch 27/30 | Train Loss: 0.1729, Train Acc: 0.9340 | Val Loss: 0.3191, Val Acc: 0.8926
+2025-06-28 16:14:48,294 - Epoch 28/30 | Train Loss: 0.1686, Train Acc: 0.9353 | Val Loss: 0.3374, Val Acc: 0.8890
+2025-06-28 16:14:53,282 - Epoch 29/30 | Train Loss: 0.1650, Train Acc: 0.9377 | Val Loss: 0.3285, Val Acc: 0.8892
+2025-06-28 16:15:02,056 - Epoch 30/30 | Train Loss: 0.1595, Train Acc: 0.9404 | Val Loss: 0.3237, Val Acc: 0.8953
+2025-06-28 16:15:02,056 - Training finished.
+2025-06-28 16:15:02,109 - Loss plot saved to loss_plot_transformer_fashion_mnist.png
